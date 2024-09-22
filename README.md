@@ -22,7 +22,6 @@ Choose a decryption method by entering the corresponding number:
 2. Decrypt Substitution Cipher (Frequency Analysis)
 3. Decrypt Vigenère Cipher
 
-4. 
 Enter the Ciphertext:
 
 Paste or type the encrypted message you wish to decrypt.
